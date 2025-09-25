@@ -5,7 +5,6 @@ const jedi = {
 
 jedi.edad = 25;
 
-console.log(jedi);
 
 let nombre = "Leia";
 
