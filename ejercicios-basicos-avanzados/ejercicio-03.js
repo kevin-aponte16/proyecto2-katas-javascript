@@ -8,9 +8,8 @@ console.log('el resto de dividir 15 por 9 es',15%9);
 
  let c = 10;
  let m = 5;
-
  let i= c*m;
- 
+
 
 
 
